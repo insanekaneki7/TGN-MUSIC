@@ -42,7 +42,7 @@ async def init():
     try:
         await TGN.stream_call("https://graph.org/file/ec8a35dd5f1ef90947167.mp4")
     except NoActiveGroupCall:
-        LOGGER("TGNMusic").error(
+        LOGGER("INSANEMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
         )
         exit()
@@ -50,11 +50,11 @@ async def init():
         pass
     await TGN.decorators()
     LOGGER("TGNMusic").info(
-        "TGN Music Bot Started Successfully"
+        "INSANE Music Bot Started Successfully"
     )
     await idle()
     await app.stop()
-    LOGGER("TGNMusic").info("Stopping TGN Music Bot...")
+    LOGGER("INSANEMusic").info("Stopping INSANE Music Bot...")
 
 
 if __name__ == "__main__":
