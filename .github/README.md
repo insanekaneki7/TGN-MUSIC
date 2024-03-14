@@ -3,14 +3,14 @@
 [![Forks](https://img.shields.io/github/forks/Godfatherakkii/TGN-MUSIC?style=flat-square&color=orange)](https://github.com/insanekaneki7/TGN-MUSIC/fork)
 
 
-[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/TheGodfatherChat)
+[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/INSANE_NETWORK)
 [![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/insanesociety)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">
-  <b>𝙏𝙂𝙉 𝙈𝙐𝙎𝙄𝘾</b>
+  <b>𝐈𝐍𝐒𝐀𝐍𝐄 𝐌𝐔𝐒𝐈𝐂</b>
 </h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -58,7 +58,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 # Credit
   - [𝐊𝐀𝐍𝐄𝐊𝐈](https://github.com/insanesociety)
 
-• This project is TheGodFather.
+• This project is 𝐈𝐍𝐒𝐀𝐍𝐄 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘.
 
 • insaneMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
