@@ -1,10 +1,10 @@
 [![](https://img.shields.io/badge/TgnMusic-V2-darkgreen)](#)
 [![Stars](https://img.shields.io/github/stars/Godfatherakkii/TGN-MUSIC?style=flat-square&color=yellow)](https://github.com/Godfatherakkii/TGN-MUSIC/stargazers)
-[![Forks](https://img.shields.io/github/forks/Godfatherakkii/TGN-MUSIC?style=flat-square&color=orange)](https://github.com/Godfatherakkii/TGN-MUSIC/fork)
+[![Forks](https://img.shields.io/github/forks/Godfatherakkii/TGN-MUSIC?style=flat-square&color=orange)](https://github.com/insanekaneki7/TGN-MUSIC/fork)
 
 
 [![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/TheGodfatherChat)
-[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/IndianBotUpDates)
+[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/insanesociety)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -56,10 +56,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 # Credit
-  - [𝗦𝗮𝗺𝗲𝗲𝗿](https://github.com/notreallysrk)
+  - [𝐊𝐀𝐍𝐄𝐊𝐈](https://github.com/insanesociety)
 
 • This project is TheGodFather.
 
-• TgnMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+• insaneMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Made with ♥️ by [TeamTGN](https://github.com/Godfatherakkii)
+Made with ♥️ by [𝐊𝐀𝐍𝐄𝐊𝐈](https://github.com/insanesociety)
